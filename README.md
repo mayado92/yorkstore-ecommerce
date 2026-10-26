@@ -27,5 +27,5 @@ Developed by a 2-person engineering team as a modern, decoupled single-page appl
 ---
 
 ## 👥 Team & Individual Contributions
-* **Syed Nabeel Ahmed (Backend Lead):** Architected the Spring Boot REST API, implemented JWT security, configured database relationships in PostgreSQL, and managed database seeding scripts.
-* **Thi Ngoc Mai Do (Frontend Lead & Author):** Designed and developed the entire client-side architecture using React, Vite, and Redux Toolkit. Built responsive views (Home, Catalog, Cart, Checkout, Admin Dashboard), managed Axios API interception, and produced system architecture artifacts (UML & Sequence diagrams).
+* **Syed (Backend Lead):** Architected the Spring Boot REST API, implemented JWT security, configured database relationships in PostgreSQL, and managed database seeding scripts.
+* **Maya (Frontend Lead & Author):** Designed and developed the entire client-side architecture using React, Vite, and Redux Toolkit. Built responsive views (Home, Catalog, Cart, Checkout, Admin Dashboard), managed Axios API interception, and produced system architecture artifacts (UML & Sequence diagrams).
